@@ -9,7 +9,7 @@ Dette er en endring.
 
 **Always backup your savegames before loading them into Slim's Editor.**
 
-
+Dette er enda en endring i en separat commit.
 Supported file formats
 ----------------------
 
