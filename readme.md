@@ -5,6 +5,7 @@ A savegame editor for the Ratchet and Clank games, written in Python, using Dear
 
 Slim's Editor allows you to read and change any (known) value of a RaC savegame. 
 This can also include values that are not exposed by the game itself.
+Dette er en endring.
 
 **Always backup your savegames before loading them into Slim's Editor.**
 
